@@ -1,0 +1,75 @@
+.homepage {
+    text-align: center;
+    background-color: #182325;
+    
+      align-items: center;
+      flex-wrap: wrap;
+      justify-content: space-around;
+      padding: 20px;
+
+    
+  }
+.text-center,.promotions{
+    color: #b02035;
+    align-items: center;
+    text-align: center;
+    padding: 20px;
+    
+    
+}
+
+.cart{
+  font-weight: bold;
+  color: rgb(14, 242, 48); /* #3a2400 Match the dark theme */
+
+
+}
+  .offer-container {
+    font-weight: bold;
+    color: #0d0d0def;
+    align-items: center;
+    text-align: center;
+
+    border: 2px solid rgb(28, 152, 28);
+    background-color: rgb(81, 120, 122); /* #3a2400 Match the dark theme */
+    padding: 10px;
+    
+    
+  }
+  .home{
+    align-items: center;
+    text-align: center;
+    text-size-adjust: 20px;
+    font-size: large;
+    color: #1a24eb;
+
+  }
+  .cartpage {
+    text-align: center;
+    background-color: rgb(119, 155, 158); /* #3a2400 Match the dark theme */
+    
+      align-items: left;
+      flex-wrap: wrap;
+      justify-content: space-around;
+      padding: 20px;
+
+    
+  }
+  .body,.list-group {
+    font-weight: bold;
+    color: #2f2d2def;
+    border: 1px solid rgb(28, 152, 28);
+
+  }
+ 
+  .target{
+    font-weight: bold;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    color: #121212ef;
+  }
+  .form{
+    background-color: rgb(119, 155, 158); /* #3a2400 Match the dark theme */
+    align-items: center;
+    text-align: center;
+    padding:20px;
+  }
