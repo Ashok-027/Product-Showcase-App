@@ -3,9 +3,8 @@
     background-color: #182325;
     
       align-items: center;
-      flex-wrap: wrap;
       justify-content: space-around;
-      padding: 20px;
+      padding-bottom: 20px;
 
     
   }
@@ -51,13 +50,16 @@
       align-items: left;
       flex-wrap: wrap;
       justify-content: space-around;
-      padding: 20px;
-
+      
     
   }
-  .body,.list-group {
+  .table,.list-group {
     font-weight: bold;
     color: #2f2d2def;
+    flex-wrap: wrap;
+
+    justify-content: space-around;
+
     border: 1px solid rgb(28, 152, 28);
 
   }
@@ -73,3 +75,5 @@
     text-align: center;
     padding:20px;
   }
+
+  

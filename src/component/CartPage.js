@@ -39,7 +39,7 @@ const promotions=[
 ]
   return (
     <Container className='cartpage'>
-      <h3 className="home" ><a href='/'>-- Back to Home Page</a></h3>
+      <h3 className="home" ><a href='/homepage'>-- Back to Home Page</a></h3>
 
       <h1 className="text-center">Shopping Cart</h1>
       {cartItems.length === 0 ? (
@@ -81,7 +81,7 @@ const promotions=[
       <ul className="list-group">
         {promotions.map((promotion) => (
           <>
-            {promotion.title}: {promotion.description}<a href='/'>Click Here</a><br></br>
+            {promotion.title}: {promotion.description}<a href='/homepage'>Click Here</a><br></br>
           </> 
         ))}
       </ul>

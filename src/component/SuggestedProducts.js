@@ -48,7 +48,7 @@ const SuggestedProducts = () => {
 };
   return (
     <Container className='form'>
-      <h3 className="home"  ><a href='/'>-- Back to Products Page</a></h3>
+      <h3 className="home"  ><a href='/homepage'>-- Back to Products Page</a></h3>
       <h2 className="text-center">Showing Suggestions Based on User Requirement</h2>
           <Form >
                   <Form.Group controlId="userBudget">
